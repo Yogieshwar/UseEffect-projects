@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+
+  background-color: #85FFBD;
+  background-image: linear-gradient(90deg, #85FFBD 0%, #FFFB7D 100%);
+  
+}
+/* .inputtag{
+  border:  1px solid rgb(45, 44, 44);
+  outline: none;
+  background: #FFFB7D;
+  width: 200px;
+  height: 30px;
+} */
