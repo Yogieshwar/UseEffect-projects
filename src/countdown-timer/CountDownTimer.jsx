@@ -50,12 +50,6 @@ const CountDownTimer = () => {
 
    }
   
-    //function to stop countdown
-    let HandleCountdownstop=()=>{
-        setIsCounting(false)
-        // FormatTime=(time)
-    }
-
   return (
     <>
     <h3 className='fs-1 text-success fw-bold text-center my-5'>CountDown Timer</h3>
